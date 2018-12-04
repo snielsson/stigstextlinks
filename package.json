@@ -1,0 +1,12 @@
+{
+  "name": "stigstextlinks",
+  "version": "1.0.0",
+  "description": "A library creating links from patterns in text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["links", "text", "patterns", "regexp"],
+  "author": "Stig Schmidt Nielsson <stigbn@gmail.com> (https://github.com/snielsson)",
+  "license": "MIT"
+}
